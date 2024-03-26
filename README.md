@@ -165,7 +165,8 @@ Sattainathar temple, Sirkazhi (also called Brahmapureeswarar temple and Thoniapp
 ```
 
 ## OUTPUT
-![alt text](1.png)
+![1](https://github.com/Hafeezuldeen/NearMe/assets/144979314/6b59264a-a80c-4ce7-9f32-4962ddc5547c)
+
 ![alt text](2.png)
 ![alt text](3.png)
 ![alt text](4.png)
